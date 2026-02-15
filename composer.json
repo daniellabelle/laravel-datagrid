@@ -1,11 +1,11 @@
 {
-    "name": "wdev-rs/laravel-datagrid",
+    "name": "daniellabelle07/laravel-datagrid",
     "description": "Laravel integration for Grid.js server side processing",
     "keywords": [
         "wdev-rs",
         "laravel-datagrid"
     ],
-    "homepage": "https://github.com/wdev-rs/laravel-datagrid",
+    "homepage": "https://github.com/daniellabelle07/laravel-datagrid",
     "license": "MIT",
     "type": "library",
     "authors": [
